@@ -1,7 +1,9 @@
-![Static Badge](https://img.shields.io/badge/:badgeContent)
-
-
 # Haxball Roles Script
+
+![version](https://img.shields.io/badge/version-1.0-blue)
+![language](https://img.shields.io/badge/language-JavaScript-yellow)
+![status](https://img.shields.io/badge/status-stable-brightgreen)
+[![Discord](https://img.shields.io/badge/Discord-Scripts%20Shop-5865F2?logo=discord&logoColor=white)](https://discord.gg/TU-LINK)
 
 A lightweight role management script for Haxball rooms. It allows
 administrators to easily assign, manage, and visually identify player
